@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently delving deeper into React.js and continually expanding my skill set. Excited about the endless possibilities in the tech world.<br>👯 I’m looking to collaborate on on exciting software development projects that challenge my skills and push the boundaries of innovation. If you have an idea or project you'd like to work on together, let's connect and make it happen!"<br>🤝 I’m looking for help with<br>🌱 I’m currently learning MERN stack web development<br>💬 Ask me about technology and coding<br>⚡ Fun fact
+🔭 I’m currently delving deeper into React.js and continually expanding my skill set. Excited about the endless possibilities in the tech world.<br>👯 I’m looking to collaborate on on exciting software development projects that challenge my skills and push the boundaries of innovation. If you have an idea or project you'd like to work on together, let's connect and make it happen!"<br>🤝 I’m looking for help with<br>🌱 I’m currently learning MERN stack web development<br>💬 Ask me about technology and coding<br>⚡ contact: debasisjena693@gmail.com
 
 
 ## 🌐 Socials:
