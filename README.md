@@ -11,7 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Debasis693&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Debasis693&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Debasis693&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-[![](https://visitcount.itsvg.in/api?id=Debasis693&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Debasis693&theme=radical&no-frame=false&no-bg=true&margin-w=4)
